@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bwa2 (you can call me batu)
 - 👀 I’m interested in environment conservation, arts, and technology
 - 🌱 I’m currently learning git+github, python, and arduino stuff
-- 💞️ I’m looking to collaborate on IoT and Machine Learning
+- 💞️ I’m looking to collaborate on IoT and Control System
 - 📫 How to reach me line: @kiddunk
 
 <!---
